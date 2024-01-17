@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning SAYNA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : nomsshark@gmail.com
+- Je suis étudiant à HKM by KiS madagascar
 
 <!---
 FELIX-RH/FELIX-RH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
